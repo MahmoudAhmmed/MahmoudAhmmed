@@ -1,116 +1,64 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Ahmed</h1>
-<h3 align="center">Data Scientist | AI Enthusiast | BI Developer | Problem Solver 🚀</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Mahmoud%20Ahmed&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<h1 align="center">⚡ Data Scientist | AI Engineer | BI Specialist ⚡</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mahmoud-ahmed-22505527a">
-    <img src="https://img.shields.io/badge/LinkedIn-Mahmoud_Ahmed-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:mahmoud.aa04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Transforming+Data+Into+Intelligence;Building+AI+Driven+Solutions;Machine+Learning+Enthusiast;Systems+Thinking+Problem+Solver;Future+AI+Architect" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-🎓 Senior Computer Science & Statistics Student (GPA: 3.577 – B+)  
-📊 Passionate about transforming data into intelligent decisions  
-🤖 Specialized in Machine Learning & AI Systems  
-📈 BI Developer with strong Data Warehousing foundation  
-🌍 Participant in international ML collaboration (NYSE Prediction Project)  
-🧠 Systems Thinking & Sustainability Problem Solver (Shell Nxplorers Pro)
+🎓 Senior Computer Science & Statistics Student (GPA: 3.577)  
+🤖 Machine Learning & AI Systems Developer  
+📊 Business Intelligence & Data Warehousing Specialist  
+🌍 International ML Collaboration (USA – Egypt)  
+🧩 Systems Thinking & Sustainability Strategist  
 
-I don’t just analyze data… I engineer insight.
+> I don’t just analyze data… I engineer intelligent systems.
 
 ---
 
-## 🧠 Tech Stack
+## 🚀 AI Generated Header Identity
 
-### 👨‍💻 Programming & ML
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MahmoudAhmmed/MahmoudAhmmed/main/ai-banner.png" width="100%" />
+</p>
+
+⚠️ هننشئ الصورة دي بعد ما أديك البرومبت.
+
+---
+
+## 🛠 Tech Arsenal
+
+### 🧠 Machine Learning & AI
 ![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikit-learn)
 ![Pandas](https://img.shields.io/badge/Pandas-Data-black?logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-Scientific-blue?logo=numpy)
-![SQL](https://img.shields.io/badge/SQL-Advanced-blue?logo=mysql)
 
 ### 📊 Business Intelligence
 ![Power BI](https://img.shields.io/badge/PowerBI-DAX-yellow?logo=powerbi)
 ![Tableau](https://img.shields.io/badge/Tableau-Visualization-blue?logo=tableau)
-![Excel](https://img.shields.io/badge/Excel-Analysis-green?logo=microsoft-excel)
+![Excel](https://img.shields.io/badge/Excel-Advanced-green?logo=microsoft-excel)
 
 ### 🏗 Data Engineering
+![SQL Server](https://img.shields.io/badge/SQL-Advanced-blue?logo=mysql)
 ![SSIS](https://img.shields.io/badge/SSIS-ETL-red)
 ![SSAS](https://img.shields.io/badge/SSAS-Analysis-blue)
 ![SSRS](https://img.shields.io/badge/SSRS-Reporting-lightgrey)
 
 ---
 
-## 💡 Featured Projects
+## 📊 Skill Progress
 
-### 🤖 RoaTech – AI Career Guidance Chatbot
-AI-powered Streamlit web app using Logistic Regression  
-Personalized career prediction + YouTube API integration  
-Interactive ML-based recommendation system  
-
----
-
-### 🧠 Stroke Prediction Dashboard
-Machine Learning classification model  
-Interactive Streamlit interface  
-Real-time prediction based on medical inputs  
-
----
-
-### 📊 Spotify Data Analysis
-City-based listening behavior analysis  
-Interactive dashboard with insights visualization  
-
----
-
-### 🏫 College Management System (OOP – Python)
-Complete OOP-based academic management system  
-Departments, Students, Staff, Facilities Management  
-
----
-
-## 🏆 Certifications & Achievements
-
-✔ IBM Data Scientist Track – DEPI Initiative  
-✔ AI Training – Orange Digital Center (98%)  
-✔ BI Development Track – ITI  
-✔ Supervised ML – Coursera  
-✔ Building LLM Applications & Prompt Engineering  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 🌟 Leadership & Impact
-
-👨‍💻 Head of Programming Committee – NASA Team  
-🧑‍🤝‍🧑 Co-Founder – CyberGeeks  
-🌍 International ML Collaboration (USA – Egypt)  
-🧩 Systems Thinking & Strategic Problem Solving  
-
----
-
-## 🎯 Vision
-
-To build intelligent systems that combine  
-AI, Data Science, and Human Insight  
-to solve real-world complex challenges.
-
----
-
-⭐ If you like my work, feel free to connect or collaborate!
+```text
+Machine Learning      ████████████████████ 90%
+Python                ███████████████████  88%
+SQL & BI              ██████████████████   85%
+Data Visualization    ████████████████     80%
+Systems Thinking      ███████████████████  92%
+Leadership            █████████████████    87%
