@@ -61,12 +61,11 @@ I enjoy turning raw data into meaningful insights and building intelligent syste
 
 ## 📊 GitHub Stats
 
-![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmoudAhmmed&show_icons=true&theme=dark&hide=issues)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmoudAhmmed&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAhmmed&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAhmmed&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahmoudAhmmed&theme=dark)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahmoudAhmmed&theme=dark&hide_border=true)
 
 
 ---
