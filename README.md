@@ -9,7 +9,7 @@
 
 # Hey there, I'm Mahmoud Ahmed 👋
 
-**Data Scientist | AI Engineer 🤖📊**
+**Data Scientist | Machine Learning Engineer 🤖📊**
 
 💼 **Current:**  
 - Fourth-year student at Faculty of Science (Computer Science & Statistics)  
