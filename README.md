@@ -69,9 +69,9 @@ Leadership            █████████████████    87%
 To build intelligent AI-driven systems
 that transform raw data into strategic decisions
 and create measurable real-world impact.
-
-<p align="center"> <a href="https://www.linkedin.com/in/mahmoud-ahmed-22505527a"> <img src="https://img.shields.io/badge/LinkedIn-Mahmoud_Ahmed-blue?style=for-the-badge&logo=linkedin"> </a> </p> ```
 ```
+<p align="center"> <a href="https://www.linkedin.com/in/mahmoud-ahmed-22505527a"> <img src="https://img.shields.io/badge/LinkedIn-Mahmoud_Ahmed-blue?style=for-the-badge&logo=linkedin"> </a> </p> ```
+
 
 ---
 
