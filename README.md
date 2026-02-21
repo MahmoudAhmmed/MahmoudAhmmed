@@ -62,12 +62,18 @@ I enjoy turning raw data into meaningful insights and building intelligent syste
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudAhmmed&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudAhmmed&show_icons=true&theme=dark&hide=issues" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAhmmed&layout=compact&theme=dark" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudAhmmed&theme=dark" />
+</div>
+
+
 
 ---
 
