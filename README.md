@@ -62,3 +62,12 @@ SQL & BI              ██████████████████   8
 Data Visualization    ████████████████     80%
 Systems Thinking      ███████████████████  92%
 Leadership            █████████████████    87%
+```
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MahmoudAhmmed/MahmoudAhmmed/output/github-contribution-grid-snake-dark.svg" />
+</p>
