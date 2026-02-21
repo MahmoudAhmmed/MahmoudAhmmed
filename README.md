@@ -1,10 +1,6 @@
 # Hey there, I'm Mahmoud Ahmed 👋
 
-**Data Scientist · CS & Statistics Student · AI Enthusiast 🤖📊**
-
-💼 **Current:**  
-- Fourth-year student at Faculty of Science (Computer Science & Statistics)  
-- Data Science Trainee (DEPI – IBM Track)
+**Data Scientist · Computer Science & Statistics Student · AI Enthusiast 📊🤖**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MahmoudAhmmed&style=for-the-badge" alt="Profile Views"/>
@@ -12,79 +8,97 @@
 
 ---
 
-## 🚀 About Me
+## 🧠 Data Scientist Summary
 
-<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
+I am a **Data Science student and aspiring Data Scientist** with a strong foundation in  
+**statistics, machine learning, and data analysis**.
 
-I am a passionate **Data Scientist** with a strong background in **Statistics, Machine Learning, and Data Analysis**.  
-I enjoy turning raw data into meaningful insights and building intelligent systems that solve real-world problems.
+I enjoy working with data end-to-end — from **data cleaning and exploration** to  
+**building predictive models and interactive dashboards** that support real-world decision-making.
 
-- 📊 Data Analysis & Visualization  
-- 🤖 Machine Learning & Predictive Modeling  
-- 🧠 Systems Thinking & Problem Solving  
-- 🌱 Always learning and exploring new AI technologies  
+💡 My interests include:
+- Machine Learning & Predictive Modeling  
+- Data Analysis & Visualization  
+- Business Intelligence & Insights  
+- AI-driven Applications  
 
-<br clear="right"/>
-
----
-
-## 🔧 My Tech Stack
-
-### 🧑‍💻 Programming & Data
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-
-### 📊 Data Science & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-
-### 📈 BI & Visualization
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
-
-### 🏗️ Data Engineering
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-![SSIS](https://img.shields.io/badge/SSIS-0078D4)
-![SSAS](https://img.shields.io/badge/SSAS-5C2D91)
-![SSRS](https://img.shields.io/badge/SSRS-008272)
-
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+🎯 I am actively seeking **internship or junior roles** where I can apply my skills,  
+learn from experienced teams, and contribute to impactful data-driven solutions.
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Technical Skills
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmoudAhmmed&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
+### Programming & Data
+- **Python** (NumPy, Pandas, Scikit-Learn, Matplotlib, BeautifulSoup)
+- **SQL** (MySQL, SQL Server, Advanced Queries)
+- **C++** (Basics)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAhmmed&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
+### Data Science & Machine Learning
+- Supervised & Unsupervised Learning
+- Model Evaluation & Hyperparameter Tuning
+- Feature Engineering & Data Preprocessing
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahmoudAhmmed&theme=dark&hide_border=true)
+### Business Intelligence & Visualization
+- **Power BI** (DAX, Data Modeling, Dashboards)
+- **Tableau**
+- **Excel** (Cleaning, Analysis, Reporting)
 
+### Data Engineering
+- Data Warehousing Concepts
+- Microsoft BI Stack (SSIS, SSAS, SSRS)
 
 ---
 
-## 🧠 Featured Projects
+## 🚀 Featured Projects
 
-- 📌 **College Management System (Python OOP)**  
-- 🎵 **Spotify Data Analysis Dashboard (Streamlit)**  
-- 🏥 **Stroke Prediction System (ML + Streamlit)**  
-- 🤖 **RoaTech Career Guidance Chatbot**
+### 📌 College Management System (Python – OOP)
+A complete college management system built using **object-oriented programming** in Python.  
+Includes modules for managing students, staff, departments, and facilities using a menu-driven interface.
+
+**Skills:** Python · OOP · System Design
+
+---
+
+### 🎵 Spotify Data Analysis Dashboard
+Analyzed music listening behavior and built an **interactive Streamlit dashboard**  
+to visualize trends, preferences, and insights for a selected city.
+
+**Skills:** Pandas · Data Visualization · Streamlit
+
+---
+
+### 🏥 Stroke Prediction System
+Developed a **machine learning model** to predict the likelihood of stroke based on medical and lifestyle features,  
+with an interactive Streamlit interface for user input.
+
+**Skills:** Machine Learning · Classification · Streamlit
+
+---
+
+### 🤖 RoaTech Career Guidance Chatbot
+An AI-powered web application that predicts suitable **tech career paths** using a classification model  
+and generates personalized learning roadmaps, integrated with the YouTube API.
+
+**Skills:** Machine Learning · Python · Streamlit · APIs
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahmoudAhmmed&theme=dark)
+
+> *Note:* GitHub Stats cards may not always load due to GitHub rate-limits.  
+> Project quality and consistency matter more than numbers.
 
 ---
 
 ## 🔗 Connect with Me
 
-<div align="center">
+- 🌐 **Portfolio:** https://mahmoudahmmed.github.io/MahmoudAhmed.github.io/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/mahmoud-ahmed-22505527a/
+- 📧 **Email:** mahmoud.aa04@gmail.com
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mahmoudahmmed.github.io/MahmoudAhmed.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-ahmed-22505527a/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoud.aa04@gmail.com)
+---
 
-</div>
+⭐ *If you find my projects interesting, feel free to explore my repositories or connect with me.*
