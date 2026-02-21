@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Mahmoud%20Ahmed&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<h1 align="center">⚡ Data Scientist | AI Engineer </h1>
+<h1 align="center">⚡ Data Scientist | AI Engineer ⚡</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Transforming+Data+Into+Intelligence;Building+AI+Driven+Solutions;Machine+Learning+Enthusiast;Systems+Thinking+Problem+Solver;Future+AI+Architect" />
