@@ -13,7 +13,8 @@
 
 💼 **Current:**  
 - Fourth-year student at Faculty of Science (Computer Science & Statistics)  
-- Data Science Trainee (DEPI – IBM Track)
+- Former Data Science Trainee (DEPI – IBM Track)
+- Former BI Development Trainee (ITI)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MahmoudAhmmed&style=for-the-badge" alt="Profile Views"/>
