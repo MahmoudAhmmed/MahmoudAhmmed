@@ -20,15 +20,6 @@
 
 > I don’t just analyze data… I engineer intelligent systems.
 
----
-
-## 🚀 AI Generated Header Identity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MahmoudAhmmed/MahmoudAhmmed/main/ai-banner.png" width="100%" />
-</p>
-
-⚠️ هننشئ الصورة دي بعد ما أديك البرومبت.
 
 ---
 
@@ -66,14 +57,14 @@ Leadership            █████████████████    87%
 
 ---
 
-📈 GitHub Performance
+## 📈 GitHub Performance
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MahmoudAhmmed&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudAhmmed&theme=tokyonight&hide_border=true" /> </p>
 
 
 ---
 
 
-🎯 Vision
+## 🎯 Vision
 
 To build intelligent AI-driven systems
 that transform raw data into strategic decisions
@@ -85,7 +76,10 @@ and create measurable real-world impact.
 ---
 
 
-Visitor Counter 👁
+## Visitor Counter 👁
+
+```text
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MahmoudAhmmed&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+```
