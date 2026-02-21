@@ -1,51 +1,90 @@
-# Mahmoud Ahmed 👋  
-**Data Scientist · Computer Science & Statistics Student · AI Enthusiast 📊🤖**
+# Hey there, I'm Mahmoud Ahmed 👋
+
+**Data Scientist · CS & Statistics Student · AI Enthusiast 🤖📊**
+
+💼 **Current:**  
+- Fourth-year student at Faculty of Science (Computer Science & Statistics)  
+- Data Science Trainee (DEPI – IBM Track)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MahmoudAhmmed&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=MahmoudAhmmed&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
 
-## 🧠 Summary
-Aspiring **Data Scientist** with a strong foundation in **statistics, machine learning, and data analysis**.  
-Experienced in transforming raw data into meaningful insights, building predictive models, and creating interactive dashboards.
+## 🚀 About Me
 
-🎯 Actively seeking **internship / junior data roles** where I can contribute to data-driven solutions and grow within collaborative teams.
+<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
----
+I am a passionate **Data Scientist** with a strong background in **Statistics, Machine Learning, and Data Analysis**.  
+I enjoy turning raw data into meaningful insights and building intelligent systems that solve real-world problems.
 
-## 🛠️ Tech Stack
-**Languages & Tools:**  
-Python · SQL · C++ · Git · GitHub  
+- 📊 Data Analysis & Visualization  
+- 🤖 Machine Learning & Predictive Modeling  
+- 🧠 Systems Thinking & Problem Solving  
+- 🌱 Always learning and exploring new AI technologies  
 
-**Data Science & ML:**  
-Pandas · NumPy · Scikit-Learn · Feature Engineering · Model Evaluation  
-
-**Visualization & BI:**  
-Power BI (DAX) · Tableau · Excel · Streamlit  
-
-**Data Engineering:**  
-SQL Server · SSIS · SSAS · SSRS · Data Warehousing  
+<br clear="right"/>
 
 ---
 
-## 🚀 Featured Projects
-**🔹 College Management System** – Python OOP system for managing students, staff, and facilities.  
-**🔹 Spotify Data Analysis** – Interactive Streamlit dashboard analyzing music preferences.  
-**🔹 Stroke Prediction System** – ML classification model with user-friendly interface.  
-**🔹 RoaTech Chatbot** – AI-powered career guidance app with ML + YouTube API integration.
+## 🔧 My Tech Stack
+
+### 🧑‍💻 Programming & Data
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+
+### 📊 Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+
+### 📈 BI & Visualization
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+
+### 🏗️ Data Engineering
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![SSIS](https://img.shields.io/badge/SSIS-0078D4)
+![SSAS](https://img.shields.io/badge/SSAS-5C2D91)
+![SSRS](https://img.shields.io/badge/SSRS-008272)
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ---
 
-## 📊 GitHub Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahmoudAhmmed&theme=dark)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmoudAhmmed&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAhmmed&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahmoudAhmmed&theme=dark&hide_border=true)
+
 
 ---
 
-## 🔗 Connect With Me
-🌐 Portfolio: https://mahmoudahmmed.github.io/MahmoudAhmed.github.io/  
-💼 LinkedIn: https://www.linkedin.com/in/mahmoud-ahmed-22505527a/  
-📧 Email: mahmoud.aa04@gmail.com  
+## 🧠 Featured Projects
 
-⭐ *Feel free to explore my repositories or reach out for collaboration.*
+- 📌 **College Management System (Python OOP)**  
+- 🎵 **Spotify Data Analysis Dashboard (Streamlit)**  
+- 🏥 **Stroke Prediction System (ML + Streamlit)**  
+- 🤖 **RoaTech Career Guidance Chatbot**
+
+---
+
+## 🔗 Connect with Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mahmoudahmmed.github.io/MahmoudAhmed.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-ahmed-22505527a/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoud.aa04@gmail.com)
+
+</div>
