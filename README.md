@@ -1,104 +1,51 @@
-# Hey there, I'm Mahmoud Ahmed 👋
-
+# Mahmoud Ahmed 👋  
 **Data Scientist · Computer Science & Statistics Student · AI Enthusiast 📊🤖**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MahmoudAhmmed&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=MahmoudAhmmed&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
 
-## 🧠 Data Scientist Summary
+## 🧠 Summary
+Aspiring **Data Scientist** with a strong foundation in **statistics, machine learning, and data analysis**.  
+Experienced in transforming raw data into meaningful insights, building predictive models, and creating interactive dashboards.
 
-I am a **Data Science student and aspiring Data Scientist** with a strong foundation in  
-**statistics, machine learning, and data analysis**.
-
-I enjoy working with data end-to-end — from **data cleaning and exploration** to  
-**building predictive models and interactive dashboards** that support real-world decision-making.
-
-💡 My interests include:
-- Machine Learning & Predictive Modeling  
-- Data Analysis & Visualization  
-- Business Intelligence & Insights  
-- AI-driven Applications  
-
-🎯 I am actively seeking **internship or junior roles** where I can apply my skills,  
-learn from experienced teams, and contribute to impactful data-driven solutions.
+🎯 Actively seeking **internship / junior data roles** where I can contribute to data-driven solutions and grow within collaborative teams.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
+**Languages & Tools:**  
+Python · SQL · C++ · Git · GitHub  
 
-### Programming & Data
-- **Python** (NumPy, Pandas, Scikit-Learn, Matplotlib, BeautifulSoup)
-- **SQL** (MySQL, SQL Server, Advanced Queries)
-- **C++** (Basics)
+**Data Science & ML:**  
+Pandas · NumPy · Scikit-Learn · Feature Engineering · Model Evaluation  
 
-### Data Science & Machine Learning
-- Supervised & Unsupervised Learning
-- Model Evaluation & Hyperparameter Tuning
-- Feature Engineering & Data Preprocessing
+**Visualization & BI:**  
+Power BI (DAX) · Tableau · Excel · Streamlit  
 
-### Business Intelligence & Visualization
-- **Power BI** (DAX, Data Modeling, Dashboards)
-- **Tableau**
-- **Excel** (Cleaning, Analysis, Reporting)
-
-### Data Engineering
-- Data Warehousing Concepts
-- Microsoft BI Stack (SSIS, SSAS, SSRS)
+**Data Engineering:**  
+SQL Server · SSIS · SSAS · SSRS · Data Warehousing  
 
 ---
 
 ## 🚀 Featured Projects
-
-### 📌 College Management System (Python – OOP)
-A complete college management system built using **object-oriented programming** in Python.  
-Includes modules for managing students, staff, departments, and facilities using a menu-driven interface.
-
-**Skills:** Python · OOP · System Design
-
----
-
-### 🎵 Spotify Data Analysis Dashboard
-Analyzed music listening behavior and built an **interactive Streamlit dashboard**  
-to visualize trends, preferences, and insights for a selected city.
-
-**Skills:** Pandas · Data Visualization · Streamlit
-
----
-
-### 🏥 Stroke Prediction System
-Developed a **machine learning model** to predict the likelihood of stroke based on medical and lifestyle features,  
-with an interactive Streamlit interface for user input.
-
-**Skills:** Machine Learning · Classification · Streamlit
-
----
-
-### 🤖 RoaTech Career Guidance Chatbot
-An AI-powered web application that predicts suitable **tech career paths** using a classification model  
-and generates personalized learning roadmaps, integrated with the YouTube API.
-
-**Skills:** Machine Learning · Python · Streamlit · APIs
+**🔹 College Management System** – Python OOP system for managing students, staff, and facilities.  
+**🔹 Spotify Data Analysis** – Interactive Streamlit dashboard analyzing music preferences.  
+**🔹 Stroke Prediction System** – ML classification model with user-friendly interface.  
+**🔹 RoaTech Chatbot** – AI-powered career guidance app with ML + YouTube API integration.
 
 ---
 
 ## 📊 GitHub Activity
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahmoudAhmmed&theme=dark)
 
-> *Note:* GitHub Stats cards may not always load due to GitHub rate-limits.  
-> Project quality and consistency matter more than numbers.
-
 ---
 
-## 🔗 Connect with Me
+## 🔗 Connect With Me
+🌐 Portfolio: https://mahmoudahmmed.github.io/MahmoudAhmed.github.io/  
+💼 LinkedIn: https://www.linkedin.com/in/mahmoud-ahmed-22505527a/  
+📧 Email: mahmoud.aa04@gmail.com  
 
-- 🌐 **Portfolio:** https://mahmoudahmmed.github.io/MahmoudAhmed.github.io/
-- 💼 **LinkedIn:** https://www.linkedin.com/in/mahmoud-ahmed-22505527a/
-- 📧 **Email:** mahmoud.aa04@gmail.com
-
----
-
-⭐ *If you find my projects interesting, feel free to explore my repositories or connect with me.*
+⭐ *Feel free to explore my repositories or reach out for collaboration.*
