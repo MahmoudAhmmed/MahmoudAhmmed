@@ -66,8 +66,26 @@ Leadership            █████████████████    87%
 
 ---
 
-## 🐍 Contribution Snake
+📈 GitHub Performance
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MahmoudAhmmed&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudAhmmed&theme=tokyonight&hide_border=true" /> </p>
 
+
+---
+
+
+🎯 Vision
+
+To build intelligent AI-driven systems
+that transform raw data into strategic decisions
+and create measurable real-world impact.
+
+<p align="center"> <a href="https://www.linkedin.com/in/mahmoud-ahmed-22505527a"> <img src="https://img.shields.io/badge/LinkedIn-Mahmoud_Ahmed-blue?style=for-the-badge&logo=linkedin"> </a> </p> ```
+
+
+---
+
+
+Visitor Counter 👁
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MahmoudAhmmed/MahmoudAhmmed/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://komarev.com/ghpvc/?username=MahmoudAhmmed&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
