@@ -65,21 +65,19 @@ Leadership            █████████████████    87%
 
 
 ## 🎯 Vision
-
+```text
 To build intelligent AI-driven systems
 that transform raw data into strategic decisions
 and create measurable real-world impact.
 
 <p align="center"> <a href="https://www.linkedin.com/in/mahmoud-ahmed-22505527a"> <img src="https://img.shields.io/badge/LinkedIn-Mahmoud_Ahmed-blue?style=for-the-badge&logo=linkedin"> </a> </p> ```
-
+```
 
 ---
 
 
 ## Visitor Counter 👁
-
-```text
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MahmoudAhmmed&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-```
+
