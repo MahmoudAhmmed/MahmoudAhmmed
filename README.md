@@ -12,12 +12,17 @@
 
 ## 👨‍💻 About Me
 
-I am a Computer Science and Statistics student with a strong interest in Data Science, NLP, and Machine Learning. I enjoy building end-to-end data projects — from data analysis and modeling to interactive dashboards and AI-powered applications.
+<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
-.🔭 Currently working on NLP and machine learning projects.
-.📊 Turning data into insights through analysis, visualization, and dashboards.
-.⚙️ Building AI applications with Python, Streamlit, and ML libraries.
-.📚 Continuously learning and improving through real-world projects and research.
+I am a passionate *Data Scientist* with a strong background in *Statistics, Machine Learning, and Data Analysis*.  
+I enjoy turning raw data into meaningful insights and building intelligent systems that solve real-world problems.
+
+- 📊 Data Analysis & Visualization  
+- 🤖 Machine Learning & Predictive Modeling  
+- 🧠 Systems Thinking & Problem Solving  
+- 🌱 Always learning and exploring new AI technologies  
+
+<br clear="right"/>
 ---
 
 ## 🛠️ Tech Stack & Skills
