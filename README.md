@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Mahmoud%20Ahmed&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%7C%20CS%20%26%20Statistics%20Student&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Mahmoud%20Ahmed&fontAlign=50&fontAlignY=40&color=0:0f2027,100:203a43&fontColor=ffffff&desc=Data%20Scientist%20|%20CS%20%26%20Statistics%20Student&descAlignY=60" />
 </p>
 
 <p align="center">
@@ -73,9 +73,9 @@ I enjoy turning raw data into meaningful insights and building intelligent syste
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmoudAhmmed&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAhmmed&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
+<img src="https://github-readme-stats.vercel.app/api?username=MahmoudAhmmed&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahmoudAhmmed&theme=dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAhmmed&layout=compact&theme=tokyonight&hide_border=true" />
 
 
 ---
