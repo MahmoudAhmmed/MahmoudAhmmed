@@ -117,6 +117,9 @@ I enjoy turning raw data into meaningful insights and building intelligent syste
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MahmoudAhmmed&show_icons=true&theme=radical&rank_icon=github" height="195" alt="GitHub stats" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=MahmoudAhmmed&layout=donut&theme=radical&langs_count=5" height="195" alt="Top Languages" />
 </div>
+
+---
+
 ---
 
 ## 📊 Activity Graph
