@@ -92,51 +92,29 @@ I enjoy turning raw data into meaningful insights and building intelligent syste
 ## 📂 Featured Projects
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/MahmoudAhmmed/RoaTech-Intelligent-Tech-Career-Guidance-Chatbo">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=RoaTech-Intelligent-Tech-Career-Guidance-Chatbo&theme=radical&show_icons=true" alt="RoaTech Chatbot" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/MahmoudAhmmed/Stroke_Prediction_Analysis">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=Stroke_Prediction_Analysis&theme=radical&show_icons=true" alt="Stroke Prediction Analysis" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/MahmoudAhmmed/College_Management-System">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=College_Management-System&theme=radical&show_icons=true" alt="College Management System" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/MahmoudAhmmed/Spotify_Data_Analysis">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=Spotify_Data_Analysis&theme=radical&show_icons=true" alt="Spotify Data Analysis" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/MahmoudAhmmed/RoaTech-Intelligent-Tech-Career-Guidance-Chatbo">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=RoaTech-Intelligent-Tech-Career-Guidance-Chatbo&theme=radical" width="400" alt="RoaTech Chatbot" />
+  </a>
+  <a href="https://github.com/MahmoudAhmmed/Stroke_Prediction_Analysis">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=Stroke_Prediction_Analysis&theme=radical" width="400" alt="Stroke Prediction Analysis" />
+  </a>
+  
+  <br /> <a href="https://github.com/MahmoudAhmmed/College_Management-System">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=College_Management-System&theme=radical" width="400" alt="College Management System" />
+  </a>
+  <a href="https://github.com/MahmoudAhmmed/Spotify_Data_Analysis">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=Spotify_Data_Analysis&theme=radical" width="400" alt="Spotify Data Analysis" />
+  </a>
 </div>
 
----
+<br />
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MahmoudAhmmed&show_icons=true&theme=radical&hide_border=false&rank_icon=github" alt="GitHub stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=MahmoudAhmmed&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MahmoudAhmmed&show_icons=true&theme=radical&rank_icon=github" height="195" alt="GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=MahmoudAhmmed&layout=donut&theme=radical&langs_count=5" height="195" alt="Top Languages" />
 </div>
-
 ---
 
 ## 📊 Activity Graph
