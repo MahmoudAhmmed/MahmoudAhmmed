@@ -28,10 +28,24 @@ I enjoy turning raw data into meaningful insights and building intelligent syste
 
 ## 🛠️ Tech Stack & Skills
 
+**Programming & Tools**
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,mysql,C++,NumPy,Pandas,Scikit-Learn,Matplotlib,SSIS,SSAS,SSRS,Power BI,Tableau,Excelgit,github,vscode&perline=10" alt="My Skills" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,cpp,git,github,vscode&perline=10" alt="Programming Skills" />
+</div>
+
+<br />
+
+**Data Science & Business Intelligence**
+<div align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib" />
+  <br />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/SSIS_|_SSAS_|_SSRS-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 </div>
 
 ---
