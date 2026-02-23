@@ -14,10 +14,10 @@
 
 I am a Computer Science and Statistics student with a strong interest in Data Science, NLP, and Machine Learning. I enjoy building end-to-end data projects — from data analysis and modeling to interactive dashboards and AI-powered applications.
 
-🔭 Currently working on NLP and machine learning projects.
-📊 Turning data into insights through analysis, visualization, and dashboards.
-⚙️ Building AI applications with Python, Streamlit, and ML libraries.
-📚 Continuously learning and improving through real-world projects and research.
+. 🔭 Currently working on NLP and machine learning projects.
+. 📊 Turning data into insights through analysis, visualization, and dashboards.
+. ⚙️ Building AI applications with Python, Streamlit, and ML libraries.
+. 📚 Continuously learning and improving through real-world projects and research.
 ---
 
 ## 🛠️ Tech Stack & Skills
