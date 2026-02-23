@@ -28,35 +28,63 @@ I enjoy turning raw data into meaningful insights and building intelligent syste
 
 ## 🛠️ Tech Stack & Skills
 
-**Programming Languages & Tools**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,vscode&perline=10" alt="Programming Skills" />
-</div>
 
+### 💻 Programming Languages & Tools
 <br />
 
-**Data Science, Data Engineering & Business Intelligence**
-<div align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Beautiful_Soup-59666C?style=for-the-badge&logo=python&logoColor=white" alt="Beautiful Soup" />
-  <br />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/SSIS_|_SSAS_|_SSRS-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL BI Stack" />
-  <img src="https://img.shields.io/badge/Data_Warehousing-0052CC?style=for-the-badge" alt="Data Warehousing" />
-  <br />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-</div>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,vscode,latex&perline=10" alt="Programming Skills" />
+</a>
 
+<br /><br /><br />
+
+### 📊 Data Science, Engineering & BI
 <br />
 
-**Core Competencies & Soft Skills**
-- 🧠 **Machine Learning & Stats:** Probability & Descriptive Statistics, Supervised & Unsupervised Learning, Model Evaluation & Hyperparameter Tuning.
-- 🤝 **Soft Skills:** Analytical Thinking, Problem Solving, Communication, Team Leadership, and Decision-Making.
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/Beautiful_Soup-59666C?style=for-the-badge&logo=python&logoColor=white" alt="Beautiful Soup" />
+<br />
+<img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+<img src="https://img.shields.io/badge/SSIS_|_SSAS_|_SSRS-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL BI Stack" />
+<img src="https://img.shields.io/badge/Data_Warehousing-0052CC?style=for-the-badge" alt="Data Warehousing" />
+<br />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+
+<br /><br /><br />
+
+### 🧠 Core Competencies & Soft Skills
+<br />
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>🤖 Machine Learning & Statistics</b>
+    </td>
+    <td align="center" width="50%">
+      <b>🤝 Soft Skills & Leadership</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      Probability & Descriptive Statistics<br>
+      Supervised & Unsupervised Learning<br>
+      Model Evaluation & Hyperparameter Tuning
+    </td>
+    <td align="center">
+      Analytical Thinking & Problem Solving<br>
+      Communication & Teamwork<br>
+      Decision-Making & Leadership
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
 ---
