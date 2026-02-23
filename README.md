@@ -30,7 +30,7 @@ I enjoy turning raw data into meaningful insights and building intelligent syste
 
 **Programming Languages & Tools**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,sql,git,github,vscode&perline=10" alt="Programming Skills" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,vscode&perline=10" alt="Programming Skills" />
 </div>
 
 <br />
