@@ -17,10 +17,10 @@
 I am a passionate *Data Scientist* with a strong background in *Statistics, Machine Learning, and Data Analysis*.  
 I enjoy turning raw data into meaningful insights and building intelligent systems that solve real-world problems.
 
-- 📊 Data Analysis & Visualization  
+- 📊 Turning data into insights through analysis, visualization, and dashboards.  
 - 🤖 Machine Learning & Predictive Modeling  
 - 🧠 Systems Thinking & Problem Solving  
-- 🌱 Always learning and exploring new AI technologies  
+- 📚 Continuously learning and improving through real-world projects and research.
 
 <br clear="right"/>
 
