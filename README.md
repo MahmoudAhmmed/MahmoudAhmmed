@@ -70,12 +70,17 @@ I love building systems that transform **data into insights and predictions**.
 <p align="center">
 
 <a href="https://github.com/MahmoudAhmmed">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudAhmmed&repo=College-Management-System&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudAhmmed&repo=RoaTech-Intelligent-Tech-Career-Guidance-Chatbo&theme=tokyonight&hide_border=true">
 </a>
 
 <a href="https://github.com/MahmoudAhmmed">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudAhmmed&repo=Stroke-Prediction-System&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudAhmmed&repo=Stroke_Prediction_Analysis&theme=tokyonight&hide_border=true">
 </a>
+
+<a href="https://github.com/MahmoudAhmmed">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudAhmmed&repo=College_Management-System&theme=tokyonight&hide_border=true">
+</a>
+
 
 </p>
 
