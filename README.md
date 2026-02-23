@@ -12,13 +12,12 @@
 
 ## 👨‍💻 About Me
 
-I am a 4th-year college student specializing in data analysis and statistical modeling. I love turning complex data into actionable insights through interactive dashboards and continuous learning.
+I am a Computer Science and Statistics student with a strong interest in Data Science, NLP, and Machine Learning. I enjoy building end-to-end data projects — from data analysis and modeling to interactive dashboards and AI-powered applications.
 
-- 🔭 Currently diving deep into **Big Data Analysis, Survival Analysis, and Nonparametric Statistics**.
-- 📊 Experienced in building robust data visualizations and dashboards, especially using **Power BI**.
-- ⚙️ Exploring workflow automation using tools like **n8n**.
-- 📝 Proficient in **LaTeX** for academic and professional documentation.
-
+🔭 Currently working on NLP and machine learning projects.
+📊 Turning data into insights through analysis, visualization, and dashboards.
+⚙️ Building AI applications with Python, Streamlit, and ML libraries.
+📚 Continuously learning and improving through real-world projects and research.
 ---
 
 ## 🛠️ Tech Stack & Skills
