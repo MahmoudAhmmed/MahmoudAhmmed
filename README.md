@@ -109,6 +109,8 @@ I enjoy turning raw data into meaningful insights and building intelligent syste
 
 <br />
 
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
