@@ -10,19 +10,14 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
+I am a 4th-year college student specializing in data analysis and statistical modeling. I love turning complex data into actionable insights through interactive dashboards and continuous learning.
 
-I am a passionate *Data Scientist* with a strong background in *Statistics, Machine Learning, and Data Analysis*.  
-I enjoy turning raw data into meaningful insights and building intelligent systems that solve real-world problems.
-
-- 📊 Data Analysis & Visualization  
-- 🤖 Machine Learning & Predictive Modeling  
-- 🧠 Systems Thinking & Problem Solving  
-- 🌱 Always learning and exploring new AI technologies  
-
-<br clear="right"/>
+- 🔭 Currently diving deep into **Big Data Analysis, Survival Analysis, and Nonparametric Statistics**.
+- 📊 Experienced in building robust data visualizations and dashboards, especially using **Power BI**.
+- ⚙️ Exploring workflow automation using tools like **n8n**.
+- 📝 Proficient in **LaTeX** for academic and professional documentation.
 
 ---
 
