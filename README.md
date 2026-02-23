@@ -50,8 +50,8 @@ Git • GitHub • Streamlit
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MahmoudAhmmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAhmmed&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MahmoudAhmmed&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MahmoudAhmmed&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -73,8 +73,27 @@ Git • GitHub • Streamlit
 
 ---
 
+## GitHub Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoudAhmmed&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
-Portfolio  
-LinkedIn  
-Email
+<p align="center">
+
+<a href="https://mahmoudahmmed.github.io/MahmoudAhmed.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/mahmoud-ahmed-22505527a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:mahmoud.aa04@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
