@@ -30,7 +30,7 @@ I enjoy turning raw data into meaningful insights and building intelligent syste
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,latex,git,github,vscode,linux&perline=10" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,r,mysql,C++,NumPy,Pandas,Scikit-Learn,Matplotlib,SSIS,SSAS,SSRS,Power BI,Tableau,Excelgit,github,vscode&perline=10" alt="My Skills" />
   </a>
 </div>
 
