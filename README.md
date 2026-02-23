@@ -1,111 +1,82 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Mahmoud%20Ahmed&fontAlign=50&fontAlignY=40&color=0:0f2027,100:203a43&fontColor=ffffff&desc=Data%20Scientist%20|%20Machine%20Learning%20Engineer&descAlignY=60&animation=fadeIn"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Mahmoud!+👋;Data+Analyst+&+Dashboard+Developer;Passionate+about+Automation;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Data+Scientist;Machine+Learning+Engineer;AI%20Enthusiast;Turning%20Data%20Into%20Insights" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MahmoudAhmmed&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
 
----
+<br />
 
-# 👋 Hey, I'm Mahmoud Ahmed
-
-**Data Scientist | Machine Learning Engineer**
-
-🎓 Computer Science & Statistics Student  
-📊 Passionate about AI, ML, and Data Analytics
-
----
-
-# 🚀 About Me
-
-- Machine Learning Engineer
-- Data Analyst
-- AI Enthusiast
-- Problem Solver
-
-I love building systems that transform **data into insights and predictions**.
+<div align="center">
+  <a href="https://www.linkedin.com/in/mahmoud-ahmed-22505527a">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mahmoud.aa04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://mahmoudahmmed.github.io/MahmoudAhmed.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
 ---
 
-# 🧠 Tech Stack
+## 👨‍💻 About Me
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,sql,git,github,sklearn,tensorflow,pytorch&theme=dark"/>
-</p>
+I am a 4th-year college student specializing in data analysis and statistical modeling. I love turning complex data into actionable insights through interactive dashboards and continuous learning.
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,streamlit,docker&theme=dark"/>
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MahmoudAhmmed&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MahmoudAhmmed&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+- 🔭 Currently diving deep into **Big Data Analysis, Survival Analysis, and Nonparametric Statistics**.
+- 📊 Experienced in building robust data visualizations and dashboards, especially using **Power BI**.
+- ⚙️ Exploring workflow automation using tools like **n8n**.
+- 📝 Proficient in **LaTeX** for academic and professional documentation.
 
 ---
 
-# 🔥 GitHub Streak
+## 🛠️ Tech Stack & Skills
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MahmoudAhmmed&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoudAhmmed&theme=tokyo-night&hide_border=true"/>
-</p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,latex,git,github,vscode,linux&perline=10" alt="My Skills" />
+  </a>
+</div>
 
 ---
 
-# 🚀 Featured Projects
+## 📂 Featured Projects
 
-<p align="center">
+<div align="center">
+  <a href="https://github.com/MahmoudAhmmed/RoaTech-Intelligent-Tech-Career-Guidance-Chatbo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudAhmmed&repo=RoaTech-Intelligent-Tech-Career-Guidance-Chatbo&theme=radical&show_icons=true" alt="RoaTech Chatbot" />
+  </a>
+  
+  <a href="https://github.com/MahmoudAhmmed/Stroke_Prediction_Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudAhmmed&repo=Stroke_Prediction_Analysis&theme=radical&show_icons=true" alt="Stroke Prediction Analysis" />
+  </a>
+  
+  <a href="https://github.com/MahmoudAhmmed/College_Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudAhmmed&repo=College_Management-System&theme=radical&show_icons=true" alt="College Management System" />
+  </a>
+  
+  <a href="https://github.com/MahmoudAhmmed/Spotify_Data_Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudAhmmed&repo=Spotify_Data_Analysis&theme=radical&show_icons=true" alt="Spotify Data Analysis" />
+  </a>
 
-<a href="https://github.com/MahmoudAhmmed">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudAhmmed&repo=RoaTech-Intelligent-Tech-Career-Guidance-Chatbo&theme=tokyonight&hide_border=true">
-</a>
-
-<a href="https://github.com/MahmoudAhmmed">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudAhmmed&repo=Stroke_Prediction_Analysis&theme=tokyonight&hide_border=true">
-</a>
-
-<a href="https://github.com/MahmoudAhmmed">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudAhmmed&repo=College_Management-System&theme=tokyonight&hide_border=true">
-</a>
-
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://mahmoudahmmed.github.io/MahmoudAhmed.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mahmoud-ahmed-22505527a/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:mahmoud.aa04@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-<p align="center">
-⭐ From <b>Mahmoud Ahmed</b>
-</p>
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudAhmmed&show_icons=true&theme=radical&hide_border=false&rank_icon=github" alt="GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAhmmed&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="48%" />
+</div>
+
+---
+
+## 📊 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoudAhmmed&bg_color=141321&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true" alt="Activity Graph" width="100%" />
+</div>
