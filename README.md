@@ -34,7 +34,7 @@ I enjoy turning raw data into meaningful insights and building intelligent syste
 <br />
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,vscode,latex&perline=10" alt="Programming Skills" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,vscode&perline=10" alt="Programming Skills" />
 </a>
 
 <br /><br /><br />
