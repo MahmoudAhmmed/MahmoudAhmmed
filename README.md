@@ -92,18 +92,18 @@ I enjoy turning raw data into meaningful insights and building intelligent syste
 ## 📂 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/MahmoudAhmmed/RoaTech-Intelligent-Tech-Career-Guidance-Chatbo">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=RoaTech-Intelligent-Tech-Career-Guidance-Chatbo&theme=radical" width="400" alt="RoaTech Chatbot" />
+  <a href="https://github.com/MahmoudAhmmed/RoaTech-Chatbot">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=RoaTech-Chatbot&theme=radical&v=1" width="400" height="165" alt="RoaTech Chatbot" />
   </a>
   <a href="https://github.com/MahmoudAhmmed/Stroke_Prediction_Analysis">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=Stroke_Prediction_Analysis&theme=radical" width="400" alt="Stroke Prediction Analysis" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=Stroke_Prediction_Analysis&theme=radical&v=1" width="400" height="165" alt="Stroke Prediction Analysis" />
   </a>
   
   <br /> <a href="https://github.com/MahmoudAhmmed/College_Management-System">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=College_Management-System&theme=radical" width="400" alt="College Management System" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=College_Management-System&theme=radical&v=1" width="400" height="165" alt="College Management System" />
   </a>
   <a href="https://github.com/MahmoudAhmmed/Spotify_Data_Analysis">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=Spotify_Data_Analysis&theme=radical" width="400" alt="Spotify Data Analysis" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=Spotify_Data_Analysis&theme=radical&v=1" width="400" height="165" alt="Spotify Data Analysis" />
   </a>
 </div>
 
