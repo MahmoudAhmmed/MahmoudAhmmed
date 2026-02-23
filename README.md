@@ -8,92 +8,109 @@
 
 ---
 
-# 👋 Hey, I'm Mahmoud Ahmed
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Mahmoud%20Ahmed&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%7C%20CS%20%26%20Statistics%20Student&descAlignY=55" />
+</p>
 
-**Data Scientist | Machine Learning Engineer**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Data+Scientist;Machine+Learning+Enthusiast;Turning+Data+Into+Insights;Always+Learning+New+Things" />
+</p>
 
-🎓 Fourth-year Computer Science & Statistics Student  
-📊 Passionate about AI, Data Science, and Real-world Solutions
+
+# Hey there, I'm Mahmoud Ahmed 👋
+
+**Data Scientist | Machine Learning Engineer 🤖📊**
+
+💼 **Current:**  
+- Fourth-year student at Faculty of Science (Computer Science & Statistics)  
+- Former Data Science Trainee (DEPI – IBM Track)
+- Former BI Development Trainee (ITI)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MahmoudAhmmed&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- Machine Learning Engineer
-- Data Analyst
-- Problem Solver
-- AI Enthusiast
+<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
-I enjoy transforming data into **insights, predictions, and intelligent systems**.
+I am a passionate **Data Scientist** with a strong background in **Statistics, Machine Learning, and Data Analysis**.  
+I enjoy turning raw data into meaningful insights and building intelligent systems that solve real-world problems.
 
----
+- 📊 Data Analysis & Visualization  
+- 🤖 Machine Learning & Predictive Modeling  
+- 🧠 Systems Thinking & Problem Solving  
+- 🌱 Always learning and exploring new AI technologies  
 
-## 🧠 Tech Stack
-
-### Programming
-Python • SQL • C++
-
-### Data Science
-Pandas • NumPy • Scikit-learn • Matplotlib
-
-### BI Tools
-Power BI • Tableau • Excel
-
-### Data Engineering
-SQL Server • SSIS • SSAS • SSRS
-
-### Tools
-Git • GitHub • Streamlit
+<br clear="right"/>
 
 ---
 
-## 📊 GitHub Analytics
+## 🔧 My Tech Stack
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MahmoudAhmmed&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MahmoudAhmmed&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### 🧑‍💻 Programming & Data
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+
+### 📊 Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+
+### 📈 BI & Visualization
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+
+### 🏗️ Data Engineering
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![SSIS](https://img.shields.io/badge/SSIS-0078D4)
+![SSAS](https://img.shields.io/badge/SSAS-5C2D91)
+![SSRS](https://img.shields.io/badge/SSRS-008272)
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=MahmoudAhmmed&theme=tokyonight&hide_border=true"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmoudAhmmed&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAhmmed&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
 
-## 🚀 Featured Projects
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahmoudAhmmed&theme=dark&hide_border=true)
 
-📌 College Management System (Python OOP)  
-📊 Spotify Data Analysis Dashboard  
-🏥 Stroke Prediction ML System  
-🤖 Career Guidance Chatbot
 
 ---
 
+## 🧠 Featured Projects
+
+- 📌 **College Management System (Python OOP)**  
+- 🎵 **Spotify Data Analysis Dashboard (Streamlit)**  
+- 🏥 **Stroke Prediction System (ML + Streamlit)**  
+- 🤖 **RoaTech Career Guidance Chatbot**
+
+---
+
+## 🔗 Connect with Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mahmoudahmmed.github.io/MahmoudAhmed.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-ahmed-22505527a/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoud.aa04@gmail.com)
+
+</div>
 ## GitHub Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoudAhmmed&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
 
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://mahmoudahmmed.github.io/MahmoudAhmed.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/mahmoud-ahmed-22505527a/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:mahmoud.aa04@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
