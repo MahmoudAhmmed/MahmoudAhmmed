@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Mahmoud!+👋;Data+Analyst+&+Dashboard+Developer;Passionate+about+Automation;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I+am+Mahmoud!;Data+Analyst+and+Dashboard+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -47,21 +47,17 @@ I am a 4th-year college student specializing in data analysis and statistical mo
 
 <div align="center">
   <a href="https://github.com/MahmoudAhmmed/RoaTech-Intelligent-Tech-Career-Guidance-Chatbo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudAhmmed&repo=RoaTech-Intelligent-Tech-Career-Guidance-Chatbo&theme=radical&show_icons=true" alt="RoaTech Chatbot" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=MahmoudAhmmed&repo=RoaTech-Intelligent-Tech-Career-Guidance-Chatbo&theme=radical&show_icons=true" alt="RoaTech Chatbot" />
   </a>
-  
   <a href="https://github.com/MahmoudAhmmed/Stroke_Prediction_Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudAhmmed&repo=Stroke_Prediction_Analysis&theme=radical&show_icons=true" alt="Stroke Prediction Analysis" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=MahmoudAhmmed&repo=Stroke_Prediction_Analysis&theme=radical&show_icons=true" alt="Stroke Prediction Analysis" />
   </a>
-  
   <a href="https://github.com/MahmoudAhmmed/College_Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudAhmmed&repo=College_Management-System&theme=radical&show_icons=true" alt="College Management System" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=MahmoudAhmmed&repo=College_Management-System&theme=radical&show_icons=true" alt="College Management System" />
   </a>
-  
   <a href="https://github.com/MahmoudAhmmed/Spotify_Data_Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudAhmmed&repo=Spotify_Data_Analysis&theme=radical&show_icons=true" alt="Spotify Data Analysis" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=MahmoudAhmmed&repo=Spotify_Data_Analysis&theme=radical&show_icons=true" alt="Spotify Data Analysis" />
   </a>
-
 </div>
 
 ---
@@ -70,7 +66,7 @@ I am a 4th-year college student specializing in data analysis and statistical mo
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MahmoudAhmmed&show_icons=true&theme=radical&hide_border=false&rank_icon=github" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAhmmed&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahmoudAhmmed&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="48%" />
 </div>
 
 ---
