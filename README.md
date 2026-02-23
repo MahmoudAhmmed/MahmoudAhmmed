@@ -8,15 +8,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Mahmoud%20Ahmed&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%7C%20CS%20%26%20Statistics%20Student&descAlignY=55" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Data+Scientist;Machine+Learning+Enthusiast;Turning+Data+Into+Insights;Always+Learning+New+Things" />
-</p>
-
-
 # Hey there, I'm Mahmoud Ahmed 👋
 
 **Data Scientist | Machine Learning Engineer 🤖📊**
@@ -108,6 +99,8 @@ I enjoy turning raw data into meaningful insights and building intelligent syste
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoud.aa04@gmail.com)
 
 </div>
+---
+
 ## GitHub Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoudAhmmed&theme=tokyo-night&hide_border=true"/>
