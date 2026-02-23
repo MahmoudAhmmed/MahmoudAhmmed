@@ -39,7 +39,7 @@ I enjoy turning raw data into meaningful insights and building intelligent syste
 
 <br /><br /><br />
 
-### 📊 Data Science, Engineering & BI
+### 📊 Data Science, Machine Learning & BI
 <br />
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
