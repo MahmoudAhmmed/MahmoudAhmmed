@@ -47,16 +47,16 @@ I am a 4th-year college student specializing in data analysis and statistical mo
 
 <div align="center">
   <a href="https://github.com/MahmoudAhmmed/RoaTech-Intelligent-Tech-Career-Guidance-Chatbo">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=MahmoudAhmmed&repo=RoaTech-Intelligent-Tech-Career-Guidance-Chatbo&theme=radical&show_icons=true" alt="RoaTech Chatbot" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=RoaTech-Intelligent-Tech-Career-Guidance-Chatbo&theme=radical&show_icons=true" alt="RoaTech Chatbot" />
   </a>
   <a href="https://github.com/MahmoudAhmmed/Stroke_Prediction_Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=MahmoudAhmmed&repo=Stroke_Prediction_Analysis&theme=radical&show_icons=true" alt="Stroke Prediction Analysis" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=Stroke_Prediction_Analysis&theme=radical&show_icons=true" alt="Stroke Prediction Analysis" />
   </a>
   <a href="https://github.com/MahmoudAhmmed/College_Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=MahmoudAhmmed&repo=College_Management-System&theme=radical&show_icons=true" alt="College Management System" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=College_Management-System&theme=radical&show_icons=true" alt="College Management System" />
   </a>
   <a href="https://github.com/MahmoudAhmmed/Spotify_Data_Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=MahmoudAhmmed&repo=Spotify_Data_Analysis&theme=radical&show_icons=true" alt="Spotify Data Analysis" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=Spotify_Data_Analysis&theme=radical&show_icons=true" alt="Spotify Data Analysis" />
   </a>
 </div>
 
@@ -65,8 +65,8 @@ I am a 4th-year college student specializing in data analysis and statistical mo
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudAhmmed&show_icons=true&theme=radical&hide_border=false&rank_icon=github" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahmoudAhmmed&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MahmoudAhmmed&show_icons=true&theme=radical&hide_border=false&rank_icon=github" alt="GitHub stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=MahmoudAhmmed&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="48%" />
 </div>
 
 ---
