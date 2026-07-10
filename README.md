@@ -151,7 +151,7 @@ An NLP pipeline that converts unstructured **Egyptian Arabic food orders** into 
 
 <div align="center">
   <a href="https://github.com/MahmoudAhmmed/Egyptian-Food-NLP-Calorie-Estimator">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=YOUR-REPO-NAME&theme=radical&v=1" width="400" height="165" alt="Egyptian Food Order NLP Pipeline" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=Egyptian-Food-NLP-Calorie-Estimator&theme=radical&v=1" width="400" height="165" alt="Egyptian Food Order NLP Pipeline" />
   </a>
   <a href="https://github.com/MahmoudAhmmed/Spotify_Data_Analysis">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=Spotify_Data_Analysis&theme=radical&v=1" width="400" height="165" alt="Spotify Data Analysis" />
