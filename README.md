@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=850&lines=Hi+there,+I+am+Mahmoud!;Data+Scientist+and+Machine+Learning+Engineer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Mahmoud+%F0%9F%91%8B;Data+Scientist+%7C+Applied+AI+Engineer;NLP+%26+LLM+Applications;Welcome+to+my+GitHub+Profile!" alt="Typing SVG"/>
 </div>
 
 <div align="center">
@@ -12,17 +12,56 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
+I'm a **Data Scientist and Applied AI Engineer** with a Computer Science & Statistics background, focused on building **NLP and LLM-powered systems** that solve real, messy, real-world problems — not just notebook demos.
 
-I am a passionate *Data Scientist* with a strong background in *Statistics, Machine Learning, and Data Analysis*.  
-I enjoy turning raw data into meaningful insights and building intelligent systems that solve real-world problems.
+- 🧠 I design end-to-end pipelines that turn unstructured, informal text (including Arabic dialects) into structured, reliable outputs
+- 📊 I build on a solid statistics and machine learning foundation — from classification and clustering to model evaluation and BI reporting
+- ⚙️ I care about system design as much as model accuracy: typed contracts, validation, traceability, and reliability matter to me
+- 📚 Currently deepening my expertise in LLM applications and prompt engineering while finishing my degree at Helwan University
 
-- 📊 Turning data into insights through analysis, visualization, and dashboards.  
-- 🤖 Machine Learning & Predictive Modeling  
-- 🧠 Systems Thinking & Problem Solving  
-- 📚 Continuously learning and improving through real-world projects and research.
+Open to opportunities in **Data Science, Applied AI, and NLP Engineering**.
 
-<br clear="right"/>
+---
+
+## 🎯 Areas of Interest
+
+<div align="center">
+
+`Applied AI & Generative AI` &nbsp;•&nbsp; `Natural Language Processing (NLP)` &nbsp;•&nbsp; `Machine Learning` &nbsp;•&nbsp; `Data Science` &nbsp;•&nbsp; `Data Visualization & Business Intelligence`
+
+</div>
+
+---
+
+## 🧩 Areas of Expertise
+
+<table>
+  <tr>
+    <td align="center" width="33%"><b>🤖 Machine Learning</b></td>
+    <td align="center" width="33%"><b>🗣️ NLP & Generative AI</b></td>
+    <td align="center" width="34%"><b>📊 Data & BI</b></td>
+  </tr>
+  <tr>
+    <td>
+      Classification & Clustering<br/>
+      Model Evaluation<br/>
+      Hyperparameter Tuning<br/>
+      Feature Engineering
+    </td>
+    <td>
+      Arabic NLP<br/>
+      LLM-Based Applications<br/>
+      Prompt Engineering<br/>
+      Entity Resolution & Fuzzy Matching
+    </td>
+    <td>
+      Data Cleaning & EDA<br/>
+      Power BI / Tableau<br/>
+      SQL Server BI Stack (SSIS/SSAS/SSRS)<br/>
+      Data Warehousing
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -30,84 +69,101 @@ I enjoy turning raw data into meaningful insights and building intelligent syste
 
 <div align="center">
 
-### 💻 Programming Languages & Tools
-<br />
+### Programming & Data
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github" alt="Core Stack" />
+<br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,vscode&perline=10" alt="Programming Skills" />
-</a>
+<br/><br/>
 
-<br /><br /><br />
+### Machine Learning
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 
-### 📊 Data Science, Machine Learning & BI
-<br />
+<br/><br/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib" />
-<img src="https://img.shields.io/badge/Beautiful_Soup-59666C?style=for-the-badge&logo=python&logoColor=white" alt="Beautiful Soup" />
-<br />
-<img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-<img src="https://img.shields.io/badge/SSIS_|_SSAS_|_SSRS-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL BI Stack" />
-<img src="https://img.shields.io/badge/Data_Warehousing-0052CC?style=for-the-badge" alt="Data Warehousing" />
-<br />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+### NLP & Generative AI
+<img src="https://img.shields.io/badge/Hugging_Face_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/LLM_Applications-412991?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-5C2D91?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Arabic_NLP-0F9D58?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Entity_Resolution-006D77?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Fuzzy_Matching-EF6C00?style=for-the-badge" />
 
-<br /><br /><br />
+<br/><br/>
 
-### 🧠 Core Competencies & Soft Skills
-<br />
+### Data Visualization & BI
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <b>🤖 Machine Learning & Statistics</b>
-    </td>
-    <td align="center" width="50%">
-      <b>🤝 Soft Skills & Leadership</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      Probability & Descriptive Statistics<br>
-      Supervised & Unsupervised Learning<br>
-      Model Evaluation & Hyperparameter Tuning
-    </td>
-    <td align="center">
-      Analytical Thinking & Problem Solving<br>
-      Communication & Teamwork<br>
-      Decision-Making & Leadership
-    </td>
-  </tr>
-</table>
+<br/><br/>
+
+### Databases & Data Engineering
+<img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/SSIS_%7C_SSAS_%7C_SSRS-CC292B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data_Warehousing-0052CC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JSON_Processing-000000?style=for-the-badge&logo=json&logoColor=white" />
+
+<br/><br/>
+
+### Tools & Frameworks
+<img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 
 </div>
 
+---
+
+## 🚀 Flagship Project
+
+### Egyptian Food Order NLP & Calorie Estimation Pipeline
+**Graduation Project — Excellent Grade**
+
+An NLP pipeline that converts unstructured **Egyptian Arabic food orders** into accurate calorie estimates — built to handle informal dialects and non-standard food expressions.
+
+**Architecture:** a modular five-stage pipeline — text normalization → LLM-powered information extraction → entity resolution → gram-weight estimation — connected through strict typed contracts for validation and maintainability.
+
+**Core capabilities:**
+- Confidence-tiered entity resolution combining exact matching, morphological stemming, and fuzzy matching with field-specific thresholds
+- Scalable density-based lookup with automatic correction of upstream LLM extraction errors
+- Decimal-only arithmetic and full audit trails for numerical precision and traceability
+
+**Tech Stack:** `Python` `Pydantic` `Hugging Face Transformers` `Qwen2.5-7B` `RapidFuzz` `JSON`
+
+<div align="center">
+  <a href="https://github.com/MahmoudAhmmed/YOUR-REPO-NAME">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=YOUR-REPO-NAME&theme=radical&v=1" width="450" height="180" alt="Flagship Project" />
+  </a>
+</div>
+
+> ⚠️ Placeholder repo name — send me the actual repository URL to finalize this link.
 
 ---
 
-## 📂 Featured Projects
+## 📂 Pinned Projects
 
 <div align="center">
-  <a href="https://github.com/MahmoudAhmmed/RoaTech-Chatbot">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=RoaTech-Chatbot&theme=radical&v=1" width="400" height="165" alt="RoaTech Chatbot" />
-  </a>
-  <a href="https://github.com/MahmoudAhmmed/Stroke_Prediction_Analysis">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=Stroke_Prediction_Analysis&theme=radical&v=1" width="400" height="165" alt="Stroke Prediction Analysis" />
-  </a>
-  
-  <br /> <a href="https://github.com/MahmoudAhmmed/College_Management-System">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=College_Management-System&theme=radical&v=1" width="400" height="165" alt="College Management System" />
+  <a href="https://github.com/MahmoudAhmmed/YOUR-REPO-NAME">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=YOUR-REPO-NAME&theme=radical&v=1" width="400" height="165" alt="Egyptian Food Order NLP Pipeline" />
   </a>
   <a href="https://github.com/MahmoudAhmmed/Spotify_Data_Analysis">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=Spotify_Data_Analysis&theme=radical&v=1" width="400" height="165" alt="Spotify Data Analysis" />
   </a>
+  <br/>
+  <a href="https://github.com/MahmoudAhmmed/Stroke_Prediction_Analysis">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=Stroke_Prediction_Analysis&theme=radical&v=1" width="400" height="165" alt="Stroke Prediction Analysis" />
+  </a>
+  <a href="https://github.com/MahmoudAhmmed/RoaTech-Chatbot">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=RoaTech-Chatbot&theme=radical&v=1" width="400" height="165" alt="RoaTech Chatbot" />
+  </a>
 </div>
-
-<br />
 
 ---
 
@@ -117,12 +173,6 @@ I enjoy turning raw data into meaningful insights and building intelligent syste
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MahmoudAhmmed&show_icons=true&theme=radical&rank_icon=github" height="195" alt="GitHub stats" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=MahmoudAhmmed&layout=donut&theme=radical&langs_count=5" height="195" alt="Top Languages" />
 </div>
-
----
-
-
-
-## 📊 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoudAhmmed&bg_color=141321&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true" alt="Activity Graph" width="100%" />
