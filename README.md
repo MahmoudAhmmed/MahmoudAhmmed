@@ -138,8 +138,8 @@ An NLP pipeline that converts unstructured **Egyptian Arabic food orders** into 
 **Tech Stack:** `Python` `Pydantic` `Hugging Face Transformers` `Qwen2.5-7B` `RapidFuzz` `JSON`
 
 <div align="center">
-  <a href="https://github.com/MahmoudAhmmed/YOUR-REPO-NAME">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=YOUR-REPO-NAME&theme=radical&v=1" width="450" height="180" alt="Flagship Project" />
+  <a href="https://github.com/MahmoudAhmmed/Egyptian-Food-NLP-Calorie-Estimator">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=Egyptian-Food-NLP-Calorie-Estimator&theme=radical&v=1" width="450" height="180" alt="Flagship Project" />
   </a>
 </div>
 
