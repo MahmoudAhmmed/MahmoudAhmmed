@@ -150,7 +150,7 @@ An NLP pipeline that converts unstructured **Egyptian Arabic food orders** into 
 ## 📂 Pinned Projects
 
 <div align="center">
-  <a href="https://github.com/MahmoudAhmmed/YOUR-REPO-NAME">
+  <a href="https://github.com/MahmoudAhmmed/Egyptian-Food-NLP-Calorie-Estimator">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=YOUR-REPO-NAME&theme=radical&v=1" width="400" height="165" alt="Egyptian Food Order NLP Pipeline" />
   </a>
   <a href="https://github.com/MahmoudAhmmed/Spotify_Data_Analysis">
