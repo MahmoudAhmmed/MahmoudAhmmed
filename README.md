@@ -23,6 +23,7 @@ Open to opportunities in **Data Science, Applied AI, and NLP Engineering**.
 
 ---
 
+
 ## 🎯 Areas of Interest
 
 <div align="center">
@@ -35,14 +36,33 @@ Open to opportunities in **Data Science, Applied AI, and NLP Engineering**.
 
 ## 🧩 Areas of Expertise
 
-**🤖 Machine Learning**
-Classification & Clustering · Model Evaluation · Hyperparameter Tuning · Feature Engineering
-
-**🗣️ NLP & Generative AI**
-Arabic NLP · LLM-Based Applications · Prompt Engineering · Entity Resolution & Fuzzy Matching
-
-**📊 Data & BI**
-Data Cleaning & EDA · Power BI / Tableau · SQL Server BI Stack (SSIS/SSAS/SSRS) · Data Warehousing
+<table>
+  <tr>
+    <td align="center" width="33%"><b>🤖 Machine Learning</b></td>
+    <td align="center" width="33%"><b>🗣️ NLP & Generative AI</b></td>
+    <td align="center" width="34%"><b>📊 Data & BI</b></td>
+  </tr>
+  <tr>
+    <td>
+      Classification & Clustering<br/>
+      Model Evaluation<br/>
+      Hyperparameter Tuning<br/>
+      Feature Engineering
+    </td>
+    <td>
+      Arabic NLP<br/>
+      LLM-Based Applications<br/>
+      Prompt Engineering<br/>
+      Entity Resolution & Fuzzy Matching
+    </td>
+    <td>
+      Data Cleaning & EDA<br/>
+      Power BI / Tableau<br/>
+      SQL Server BI Stack (SSIS/SSAS/SSRS)<br/>
+      Data Warehousing
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -116,6 +136,12 @@ Data Cleaning & EDA · Power BI / Tableau · SQL Server BI Stack (SSIS/SSAS/SSRS
 
 **Tech Stack:** `Python` `Pydantic` `Hugging Face Transformers` `Qwen2.5-7B` `RapidFuzz` `JSON`
 
+<div align="center">
+  <a href="https://github.com/MahmoudAhmmed/Egyptian-Food-NLP-Calorie-Estimator">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=Egyptian-Food-NLP-Calorie-Estimator&theme=radical&v=1" width="450" height="180" alt="Flagship Project" />
+  </a>
+</div>
+
 ---
 
 ## 📂 Pinned Projects
@@ -139,6 +165,7 @@ Data Cleaning & EDA · Power BI / Tableau · SQL Server BI Stack (SSIS/SSAS/SSRS
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MahmoudAhmmed&show_icons=true&theme=radical&rank_icon=github" height="195" alt="GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=MahmoudAhmmed&layout=donut&theme=radical&langs_count=5" height="195" alt="Top Languages" />
 </div>
 
 <div align="center">
