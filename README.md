@@ -12,12 +12,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Data Scientist and Applied AI Engineer** with a Computer Science & Statistics background, focused on building **NLP and LLM-powered systems** that solve real, messy, real-world problems — not just notebook demos.
+**Data Scientist & Applied AI Engineer** — Computer Science & Statistics graduate (Helwan University) focused on **NLP and LLM-powered systems**.
 
-- 🧠 I design end-to-end pipelines that turn unstructured, informal text (including Arabic dialects) into structured, reliable outputs
-- 📊 I build on a solid statistics and machine learning foundation — from classification and clustering to model evaluation and BI reporting
-- ⚙️ I care about system design as much as model accuracy: typed contracts, validation, traceability, and reliability matter to me
-- 📚 Currently deepening my expertise in LLM applications and prompt engineering while finishing my degree at Helwan University
+- 🧠 Building pipelines that turn unstructured, informal text — including Arabic dialects — into structured, reliable outputs
+- 📊 Solid foundation in statistics and ML: classification, clustering, model evaluation, BI reporting
+- ⚙️ Design-first mindset: typed contracts, validation, and traceability, not just model accuracy
+- 📚 Continuing to build depth in Applied AI, NLP, and LLM applications through hands-on projects
 
 Open to opportunities in **Data Science, Applied AI, and NLP Engineering**.
 
@@ -35,33 +35,14 @@ Open to opportunities in **Data Science, Applied AI, and NLP Engineering**.
 
 ## 🧩 Areas of Expertise
 
-<table>
-  <tr>
-    <td align="center" width="33%"><b>🤖 Machine Learning</b></td>
-    <td align="center" width="33%"><b>🗣️ NLP & Generative AI</b></td>
-    <td align="center" width="34%"><b>📊 Data & BI</b></td>
-  </tr>
-  <tr>
-    <td>
-      Classification & Clustering<br/>
-      Model Evaluation<br/>
-      Hyperparameter Tuning<br/>
-      Feature Engineering
-    </td>
-    <td>
-      Arabic NLP<br/>
-      LLM-Based Applications<br/>
-      Prompt Engineering<br/>
-      Entity Resolution & Fuzzy Matching
-    </td>
-    <td>
-      Data Cleaning & EDA<br/>
-      Power BI / Tableau<br/>
-      SQL Server BI Stack (SSIS/SSAS/SSRS)<br/>
-      Data Warehousing
-    </td>
-  </tr>
-</table>
+**🤖 Machine Learning**
+Classification & Clustering · Model Evaluation · Hyperparameter Tuning · Feature Engineering
+
+**🗣️ NLP & Generative AI**
+Arabic NLP · LLM-Based Applications · Prompt Engineering · Entity Resolution & Fuzzy Matching
+
+**📊 Data & BI**
+Data Cleaning & EDA · Power BI / Tableau · SQL Server BI Stack (SSIS/SSAS/SSRS) · Data Warehousing
 
 ---
 
@@ -126,33 +107,20 @@ Open to opportunities in **Data Science, Applied AI, and NLP Engineering**.
 ### Egyptian Food Order NLP & Calorie Estimation Pipeline
 **Graduation Project — Excellent Grade**
 
-An NLP pipeline that converts unstructured **Egyptian Arabic food orders** into accurate calorie estimates — built to handle informal dialects and non-standard food expressions.
+**Summary:** Converts unstructured Egyptian Arabic food orders — informal dialects, non-standard expressions — into accurate calorie estimates via a modular five-stage pipeline (normalization → LLM extraction → entity resolution → gram-weight estimation), built on strict typed contracts.
 
-**Architecture:** a modular five-stage pipeline — text normalization → LLM-powered information extraction → entity resolution → gram-weight estimation — connected through strict typed contracts for validation and maintainability.
-
-**Core capabilities:**
-- Confidence-tiered entity resolution combining exact matching, morphological stemming, and fuzzy matching with field-specific thresholds
-- Scalable density-based lookup with automatic correction of upstream LLM extraction errors
-- Decimal-only arithmetic and full audit trails for numerical precision and traceability
+**Highlights:**
+- Confidence-tiered entity resolution: exact matching, stemming, and fuzzy matching with field-specific thresholds
+- Automatic correction of upstream LLM extraction errors via density-based lookup
+- Decimal-only arithmetic with full audit trails for precision and traceability
 
 **Tech Stack:** `Python` `Pydantic` `Hugging Face Transformers` `Qwen2.5-7B` `RapidFuzz` `JSON`
-
-<div align="center">
-  <a href="https://github.com/MahmoudAhmmed/Egyptian-Food-NLP-Calorie-Estimator">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=Egyptian-Food-NLP-Calorie-Estimator&theme=radical&v=1" width="450" height="180" alt="Flagship Project" />
-  </a>
-</div>
-
-> ⚠️ Placeholder repo name — send me the actual repository URL to finalize this link.
 
 ---
 
 ## 📂 Pinned Projects
 
 <div align="center">
-  <a href="https://github.com/MahmoudAhmmed/Egyptian-Food-NLP-Calorie-Estimator">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=Egyptian-Food-NLP-Calorie-Estimator&theme=radical&v=1" width="400" height="165" alt="Egyptian Food Order NLP Pipeline" />
-  </a>
   <a href="https://github.com/MahmoudAhmmed/Spotify_Data_Analysis">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MahmoudAhmmed&repo=Spotify_Data_Analysis&theme=radical&v=1" width="400" height="165" alt="Spotify Data Analysis" />
   </a>
@@ -171,7 +139,6 @@ An NLP pipeline that converts unstructured **Egyptian Arabic food orders** into 
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MahmoudAhmmed&show_icons=true&theme=radical&rank_icon=github" height="195" alt="GitHub stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=MahmoudAhmmed&layout=donut&theme=radical&langs_count=5" height="195" alt="Top Languages" />
 </div>
 
 <div align="center">
