@@ -19,7 +19,7 @@
 - ⚙️ Design-first mindset: typed contracts, validation, and traceability, not just model accuracy
 - 📚 Continuing to build depth in Applied AI, NLP, and LLM applications through hands-on projects
 
-Open to opportunities in **Data Science, Applied AI, and NLP Engineering**.
+Interested in opportunities across **Data Science, Applied AI, and NLP Engineering** where I can contribute to building intelligent, data-driven systems.
 
 ---
 
@@ -75,7 +75,7 @@ Open to opportunities in **Data Science, Applied AI, and NLP Engineering**.
 <br/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
 
 <br/><br/>
 
