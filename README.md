@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Mahmoud+%F0%9F%91%8B;Data+Scientist+%7C+Applied+AI+Engineer;NLP+%26+LLM+Applications;Welcome+to+my+GitHub+Profile!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Mahmoud+%F0%9F%91%8B;Data+Scientist+%7C+Aspiring+Applied+AI+Engineer;NLP+%26+LLM+Applications;Welcome+to+my+GitHub+Profile!" alt="Typing SVG"/>
 </div>
 
 <div align="center">
@@ -12,14 +12,14 @@
 
 ## 👨‍💻 About Me
 
-**Data Scientist & Applied AI Engineer** — Computer Science & Statistics graduate (Helwan University) focused on **NLP and LLM-powered systems**.
+**Data Scientist & Aspiring Applied AI Engineer** — Computer Science & Statistics graduate (Helwan University) focused on **NLP and LLM-powered systems**.
 
 - 🧠 Building pipelines that turn unstructured, informal text — including Arabic dialects — into structured, reliable outputs
 - 📊 Solid foundation in statistics and ML: classification, clustering, model evaluation, BI reporting
 - ⚙️ Design-first mindset: typed contracts, validation, and traceability, not just model accuracy
 - 📚 Continuing to build depth in Applied AI, NLP, and LLM applications through hands-on projects
 
-Interested in opportunities across **Data Science, Applied AI, and NLP Engineering** where I can contribute to building intelligent, data-driven systems.
+Interested in opportunities across **Applied AI, NLP Engineering, and Machine Learning, Data Science** where I can contribute to building reliable, language-centric AI systems.
 
 ---
 
